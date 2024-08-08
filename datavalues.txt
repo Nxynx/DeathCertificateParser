@@ -1,0 +1,26 @@
+1.DECEDENT’S LEGAL NAME (Include AKA’s if any) (First, Middle, Last, Suffix)
+2. SEX
+3. SOCIAL SECURITY NUMBER
+4a. AGE-Last Birthday
+6. BIRTHPLACE (City and State, Territory, or Foreign Country)
+7f. ZIP CODE
+7e. APT. NO.
+7c. CITY OR TOWN
+7d. STREET AND NUMBER
+7a. RESIDENCE - STATE OR FOREIGN COUNTRY
+7b. COUNTY
+8. MARITAL STATUS AT TIME OF DEATH
+9. SURVIVING SPOUSE’S NAME (If wife, give maiden name)
+11a. FATHER’S NAME (First, Middle, Last, Suffix)
+11b. BIRTHPLACE (State, Territory, or Foreign Country)
+12a. MOTHER’S MAIDEN NAME (First, Middle, Last, Suffix)
+12b. BIRTHPLACE (State, Territory, or Foreign Country)
+13a. INFORMANT’S NAME (Type or print)
+13b. RELATIONSHIP TO DECEDENT 13c. MAILING ADDRESS (Street and Number, City, State, Zip Code)
+15. PLACE OF DISPOSITION
+21. CITY, TOWN, OR LOCATION OF DEATH, AND ZIP CODE
+22. COUNTY OF DEATH
+23. DATE OF DEATH (Mo/Day/Yr) (Spell month)
+24. TIME OF DEATH
+
+
